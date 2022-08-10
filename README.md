@@ -1,13 +1,12 @@
-# misc-cpp-projs/threadpool
+# Justification for this project
 
 NOTE:  This code is not fully tested yet, and should be considered under  development code.
 
 This project contains the C++ source code of a thread pool management design.
-The initial thread pool management design was first implemented in Java 
-by [Rubens](http://www.rubens-gomes.com) in 1999.  The link to that source code can 
-be found below at:
+I mainly wrote this project as a fun learning experience in an attempt to
+map a previous version of same design written in Java a few years back.
 
-[Java Thread Pool Source Code] ( https://github.com/rubensgomes/misc-java-projs/tree/master/threadpool)
+[Java Thread Pool Source Code] (https://github.com/rubensgomes/misc-java-projs/tree/master/threadpool)
 
 ## Environment
 
