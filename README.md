@@ -4,8 +4,9 @@ NOTE:  This code is not fully tested, and should be considered under  developmen
 The source code that is provided are  mainly used for demonostrations and learning purposes only.
 
 This project contains the C++ source code of a thread pool management design.
-I mainly wrote this project as a fun learning experience in an attempt to
-map a previous version of same design written in Java a few years back.
+I mainly wrote this project as a fun learning experience sometime in 2015. This
+C++ code is attempts to map a previous version of same design written in Java that
+I wrote back in 1999.
 
 [Java Thread Pool Source Code] (https://github.com/rubensgomes/threadpool-java)
 
